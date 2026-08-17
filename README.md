@@ -1,4 +1,4 @@
-# **Analise gqs-algoritmo-01-py - Palíndromos**
+# **Análise [gqs-algoritmo-01-py] - Palíndromos**
 
 ### **Nível 1: O Básico da Investigação**
 
