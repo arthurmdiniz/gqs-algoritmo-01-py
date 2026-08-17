@@ -8,7 +8,7 @@ Pega uma variável remove números e espaço, reduz um texto para letra minúscu
 
 ##### **Como executar:** 
 
-Ajuste a frase na variável texto1 ou texto2 e use o https://www.online-python.com/, cole o código e clique em EXECUTE
+Ajuste a frase na variável texto1 ou texto2 e use o https://www.online-python.com/, copie o código existente em ``` DesafioLogica.py ``` e cole no quadro onde esta o main.py (substituindo todo código já existente no site) e clique em RUN
 
 ##### **Exemplo de saída:** 
 
